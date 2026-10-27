@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Verified First is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://verifiedfirst.com/
+Verified First provides quality pre‑employment screening, criminal background checks, verifications, and drug testing for businesses. Their platform helps companies ensure safe hiring practices by offering comprehensive background check services, including identity verification, employment history, education validation, and drug testing, all delivered through an easy‑to‑use online portal.
+
+**Areas:** Company · Background-Checks · Screening · Verification · Employment
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://verifiedfirst.com/)
+- [Documentation](https://dev.verifiedfirst.com/)
+- [Getting started](https://verifiedfirst.com/get-started/)
+- [Pricing](https://verifiedfirst.com/pricing/)
+- [Support](https://help.verifiedfirst.com/hc/en-us)
+- [Blog](https://verifiedfirst.com/resources/blog)
+- [Compliance](https://verifiedfirst.com/compliance/)
+- [GitHub](https://github.com/VerifiedFirst)
+- [Status](https://status.verifiedfirst.com/status/verifiedfirst)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/verified-first/](https://apis.io/providers/verified-first/).
